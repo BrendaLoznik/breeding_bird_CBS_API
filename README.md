@@ -11,3 +11,6 @@ The Breeding bird dataset provides insights into the breeding trends of endemic 
   - Heatmap showing the reproductive index (centered around 100) over time 
   - The klapekster shows the strongest decrease over the past 12 years
   - The roodborsttapuit shows the strongest increase over the past 12 years
+
+
+![Screenshot](reproductive_trend.png)
